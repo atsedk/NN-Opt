@@ -40,7 +40,8 @@ The project evaluates how various scheduling strategies manage the "exploration 
 **Observations:**
 * `CosineAnnealingWarmRestarts` demonstrated superior stability in the later stages of training.
 * `LambdaLR` allowed for faster convergence when tuned to the specific loss landscape of the dataset.
-<img width="1152" height="463" alt="Снимок экрана 2026-04-14 в 19 38 43" src="https://github.com/user-attachments/assets/cd03c5ba-5665-4782-8d7c-ec47cd140040" />
+![2026-04-14 19 47 23](https://github.com/user-attachments/assets/61320798-c4fb-490d-9255-a6d732e25df3)
+
 
 
 

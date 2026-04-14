@@ -27,7 +27,8 @@ We conducted a comprehensive comparison of 8 optimization algorithms to analyze 
 
 **Analysis:**
 Adaptive methods (Adam/AdamW) show significantly faster initial convergence, while Nesterov Momentum often provides smoother loss transitions on specific architectures.
-<img width="1140" height="465" alt="Снимок экрана 2026-04-14 в 19 20 38" src="https://github.com/user-attachments/assets/6faa9bed-ee77-4464-9509-23bdf0b81ef7" />
+![Uploading Снимок экрана 2026-04-14 в 19.31.43.png…]()
+
 
 ### 3. Learning Rate Scheduling Dynamics
 The project evaluates how various scheduling strategies manage the "exploration vs. exploitation" trade-off:

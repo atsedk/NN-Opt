@@ -26,7 +26,7 @@ We conducted a comprehensive comparison of 8 optimization algorithms to analyze 
 * **Hybrid/State-of-the-art:** Adam, NAdam, and **AdamW** (decoupled weight decay).
 
 **Analysis:**
-Adaptive methods (Adam/AdamW) show significantly faster initial convergence, while Nesterov Momentum often provides smoother loss transitions on specific architectures.
+Adaptive methods (Adam/AdamW) show significantly faster initial convergence, while Nesterov Momentum often provides smoother loss transitions on specific architectures. Left graph shows loss, right - accuracy.
 
 <img width="1121" height="410" alt="Снимок экрана 2026-04-14 в 19 37 08" src="https://github.com/user-attachments/assets/358c6a28-afd6-4d1e-9368-8556b67a7c45" />
 
